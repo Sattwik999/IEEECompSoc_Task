@@ -34,15 +34,15 @@ pip install Pillow
 
 ▶️ How to Run
 bash
-CopyEdit
-python main.py
+
+#python main.py
 
 A GUI window will open.
 Click "Upload Image" and select your image.
 The scanned image and extracted text will appear.
 
 Contributers:
-Sattwik Sarkar 23BCE1297
-Aditya Singh 23BCE1293
+#Sattwik Sarkar 23BCE1297
+#Aditya Singh 23BCE1293
 
 
